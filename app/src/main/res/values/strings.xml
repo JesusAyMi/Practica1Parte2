@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica1Parte2</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="introduce_la_clave">Introduce la clave</string>
+    <string name="ok">OK</string>
+</resources>
